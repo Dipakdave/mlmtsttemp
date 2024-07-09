@@ -1,0 +1,182 @@
+2024-07-03 03:27:58 Vk175, Id: 5849, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk176, Id: 5850, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk177, Id: 5851, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk182, Id: 5856, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk184, Id: 5858, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk185, Id: 5859, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk186, Id: 5860, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk187, Id: 5861, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk188, Id: 5862, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk189, Id: 5863, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk190, Id: 5864, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk192, Id: 5866, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk193, Id: 5867, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk194, Id: 5868, Req Amount: 1371.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk196, Id: 5870, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk198, Id: 5872, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk199, Id: 5873, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk201, Id: 5875, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk203, Id: 5877, Req Amount: 1379, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk204, Id: 5878, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk205, Id: 5879, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk206, Id: 5880, Req Amount: 1376, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk207, Id: 5881, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk208, Id: 5882, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk209, Id: 5883, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk210, Id: 5884, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk271, Id: 5959, Req Amount: 1327.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk272, Id: 5960, Req Amount: 1320, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk273, Id: 5961, Req Amount: 1319, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk274, Id: 5962, Req Amount: 1338, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk275, Id: 5963, Req Amount: 1331, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk276, Id: 5964, Req Amount: 1330, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk278, Id: 5966, Req Amount: 1346.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk279, Id: 5967, Req Amount: 1330.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk281, Id: 5969, Req Amount: 1323.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk282, Id: 5970, Req Amount: 1329.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk261, Id: 5949, Req Amount: 1329.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk262, Id: 5950, Req Amount: 1347.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk263, Id: 5951, Req Amount: 1324, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk264, Id: 5952, Req Amount: 1340.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk265, Id: 5953, Req Amount: 1328.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk267, Id: 5955, Req Amount: 1343.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk268, Id: 5956, Req Amount: 1321.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk269, Id: 5957, Req Amount: 1332, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk270, Id: 5958, Req Amount: 1338.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk251, Id: 5925, Req Amount: 1368, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk252, Id: 5926, Req Amount: 1352.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk253, Id: 5927, Req Amount: 1360, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk254, Id: 5928, Req Amount: 1327.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk255, Id: 5929, Req Amount: 1320.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk256, Id: 5930, Req Amount: 1320, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk257, Id: 5931, Req Amount: 1349.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk258, Id: 5932, Req Amount: 1360.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk259, Id: 5933, Req Amount: 1348, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk260, Id: 5934, Req Amount: 1323.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk244, Id: 5918, Req Amount: 1381, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk245, Id: 5919, Req Amount: 1378.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk246, Id: 5920, Req Amount: 1312, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk247, Id: 5921, Req Amount: 1381, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk248, Id: 5922, Req Amount: 1370, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk249, Id: 5923, Req Amount: 1362.5, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk250, Id: 5924, Req Amount: 1368, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk231, Id: 5905, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk232, Id: 5906, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk233, Id: 5907, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk234, Id: 5908, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk235, Id: 5909, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk236, Id: 5910, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk237, Id: 5911, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk238, Id: 5912, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk239, Id: 5913, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk240, Id: 5914, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk222, Id: 5896, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk223, Id: 5897, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk224, Id: 5898, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk225, Id: 5899, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk226, Id: 5900, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk227, Id: 5901, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk229, Id: 5903, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk230, Id: 5904, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk212, Id: 5886, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk213, Id: 5887, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk215, Id: 5889, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk216, Id: 5890, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk217, Id: 5891, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk218, Id: 5892, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk219, Id: 5893, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:27:58 Vk220, Id: 5894, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:41:28 Vk175, Id: 5849, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:42:08 Vk175, Id: 5849, Req Amount: 1386, Current Balance: 1311.00 
+
+2024-07-03 03:43:16 Vk175, Id: 5849, Req Amount: 1386, Current Balance: 1311.00 
+
